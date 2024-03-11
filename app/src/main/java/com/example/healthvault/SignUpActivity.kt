@@ -18,6 +18,6 @@ class SignUpActivity : AppCompatActivity() {
         setContentView(binding.root)
         binding.loginSButton.setOnClickListener {
         }
-
+    //hello this file takes a l;ot to push..!
     }
 }
