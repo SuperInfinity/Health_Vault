@@ -17,9 +17,7 @@ class SignUpActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
         binding.loginSButton.setOnClickListener {
-            startActivity()
-            //heaiusdasdaw
         }
-        }
+
     }
 }
