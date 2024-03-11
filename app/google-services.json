@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622908705777",
+    "project_id": "health-vault-bcd29",
+    "storage_bucket": "health-vault-bcd29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622908705777:android:00d4bb4f0ca513a0585250",
+        "android_client_info": {
+          "package_name": "com.example.healthvault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk4ZhA4MtDm3ZhvN6EWlkWKjFRMbF7gIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
