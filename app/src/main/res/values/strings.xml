@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Health Vault</string>
+    <string name="s1">Welcome</string>
+    <string name="s2">LOGIN</string>
+    <string name="s3">Gmail</string>
+    <string name="s4">Password</string>
+    <string name="s5">SIGN UP</string>
+</resources>
