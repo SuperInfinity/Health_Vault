@@ -19,5 +19,6 @@ class SignUpActivity : AppCompatActivity() {
         binding.loginSButton.setOnClickListener {
         }
     //hello this file takes a l;ot to push..!
+        //jajaja
     }
 }
