@@ -6,32 +6,28 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/coral"
-    tools:context=".MainActivity">
+    tools:context=".DisplayInfo">
 
-    <Button
-        android:id="@+id/enter_data"
+    <TextView
+        android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/s6"
-        android:textColor="#262626"
-        android:textSize="40sp"
+        android:text="Haven't Implemented Yet..!"
+        android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.276" />
+        app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        android:id="@+id/view_data"
+    <TextView
+        android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="VIEW DATA"
-        android:textSize="40sp"
-        android:textColor="#262626"
+        android:text="Stay Tuned..For Updates..!"
+        android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/enter_data" />
-
-
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+        app:layout_constraintVertical_bias="0.184" />
 </androidx.constraintlayout.widget.ConstraintLayout>

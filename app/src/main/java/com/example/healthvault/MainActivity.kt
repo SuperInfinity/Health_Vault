@@ -17,6 +17,11 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this,DataEntry::class.java))
             finish()
         }
+
+        binding.viewData.setOnClickListener {
+            startActivity(Intent(this, DisplayInfo::class.java))
+            finish()
+        }
     }
 
 
